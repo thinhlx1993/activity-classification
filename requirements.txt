@@ -1,0 +1,11 @@
+tensorflow-gpu==2.2.0
+opencv-python==4.4.0.44
+tqdm==4.61.1
+matplotlib
+Keras==2.3.0
+scikit-image==0.17.2
+scikit-learn==0.23.2
+numpy==1.19.5
+Pillow==7.2.0
+imgaug==0.4.0
+h5py==2.10.0
